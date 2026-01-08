@@ -8,7 +8,7 @@
 🎯 **Audience:** Department of Lands, Thailand  
 
 📑 **Lecture Slides:**  
-👉 https://github.com/kaopanboonyuen/LandDeedOCR/slide/DOL2026-LandDeedOCR.pdf  
+👉 https://github.com/kaopanboonyuen/LandDeedOCR/blob/main/slide/DOL2026-LandDeedOCR.pdf
 
 ---
 
