@@ -45,10 +45,10 @@ it is about understanding documents.**
 #### 📌 Demos
 
 👉 **Medical Pills Detection Dataset**  
-https://colab.research.google.com/
+https://colab.research.google.com/github/kaopanboonyuen/CHULA/blob/main/notebook/CHULA_LOSS_withMedicalPillsDetection_toStudent.ipynb  
 
 👉 **African Wildlife Detection 🐘🦓🦒**  
-https://colab.research.google.com/
+https://colab.research.google.com/github/kaopanboonyuen/CHULA/blob/main/notebook/CHULA_LOSS_withAfricanWildlifeDetection_toStudent.ipynb  
 
 > 🎯 Goal: Teach **robust detection principles** transferable to document AI.
 
@@ -69,7 +69,7 @@ Students will explore:
   - OCR + reasoning pipelines
 
 📓 **Hands-on OCR Lab (Google Colab)**  
-👉 https://colab.research.google.com/
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR/blob/main/notebook/DOL2026_Practical_AI_OCR_Lab_toStudent.ipynb  
 
 > 🔥 Focus: Why OCR errors happen — and how to fix them intelligently.
 
@@ -86,7 +86,7 @@ Students will:
 - Apply domain knowledge for correct results
 
 📓 **Mini Project Notebook**  
-👉 https://colab.research.google.com/
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR/blob/main/notebook/DOL2026_Practical_AI_OCR_Exercise_toStudent.ipynb  
 
 > 🧠 This mirrors **real government and enterprise workflows**.
 
